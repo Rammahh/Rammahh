@@ -68,7 +68,7 @@ const indy = {
 
 ## `> currently_building`
 
-> 🔨 **`project-one`** &nbsp;·&nbsp; *something cool — coming soon*
+> 🔨 **`[Arclight](https://github.com/Rammahhh/Arclight/)`** &nbsp;·&nbsp; *something cool — coming soon*
 >
 > 🧪 **`project-two`** &nbsp;·&nbsp; *experiments and side quests*
 
